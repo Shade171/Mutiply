@@ -156,6 +156,7 @@
 		3F8B20791BA332BE009EB921 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = cstark;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				3F8B20A21BA332BE009EB921 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F8B20A31BA332BE009EB921 /* Build configuration list for PBXNativeTarget "MultiplyTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				3F8B20A51BA332BE009EB921 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
